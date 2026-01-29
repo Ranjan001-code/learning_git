@@ -7,8 +7,9 @@ function multiply(){
   let product = 2*3;
 }
 
-function greet(){
-  console.log("Hello");
+function greet(name){
+  console.log("Hello,"+ name);
+
 }
 
 console.log("Hello world")
