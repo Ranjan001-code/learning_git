@@ -10,3 +10,5 @@ function multiply(){
 function greet(){
   console.log("Hello");
 }
+
+console.log("Hello world")
