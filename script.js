@@ -1,5 +1,5 @@
 let first = "Ranjan ";
-let last = "Kumar";
+let last = "kUmar";
 function add(){
   let sum = 1+2;
 }
