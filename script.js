@@ -3,8 +3,8 @@ let last = "Singh";
 function add(){
   let sum = 1+2;
 }
-function multiply(){
-  let product = 2*3;
+function multiply(num1,num2){
+  let product = num1 * num2;
 }
 
 function greet(name){
